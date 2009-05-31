@@ -8,6 +8,7 @@ Worksheets
 ----------
 
 - [Ruby Programming and Shoes](http://github.com/railsbridge/teachingkids/tree/master/md/Ruby_Programming_and_Shoes.md)
+- [A little game (Which is correct?)](http://github.com/railsbridge/teachingkids/tree/master/md/a_little_game_which_is_correct.md)
 
 
 Report from the field
@@ -21,5 +22,5 @@ Link to Sarah Allen's blog:
 
 Change log
 ----------
-May 31st, 2009: Added the link to Sarah Allen's field report.   
+May 31st, 2009: Added the link to Sarah Allen's field report and a little game (Which is correct?)   
 May 16th, 2009: Uploaded the resource of first lesson.

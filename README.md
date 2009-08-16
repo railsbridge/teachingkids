@@ -28,6 +28,6 @@ Link to **Sarah Mei's blog:**
 
 Change log
 ----------
-Aug 15th, 2009: Added the link to Sarah Mei's field report.
+Aug 15th, 2009: Added the link to Sarah Mei's field report.   
 May 31st, 2009: Added the link to Sarah Allen's field report and a little game (Which is correct?)   
 May 16th, 2009: Uploaded the resource of first lesson.
